@@ -1,0 +1,16 @@
+body {
+    margin-top: 5rem;
+}
+.itx-progressbar {
+    width: auto;
+    border: 1px solid black;
+    background-color: silver;
+}
+
+.itx-progressbar div {
+    margin: .1rem;
+    padding: .1rem;
+    border-radius: .2rem;
+    background-color: teal;
+    text-align: center;
+}
